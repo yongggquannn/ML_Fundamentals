@@ -1,12 +1,12 @@
-# Logistic Regression
+# Linear Regression
 
 ## Estimation
 
-Refer to Estimation.png
+y = wx + b
 
-## Calculating Error (Cross-Entropy)
+## Calculating Error
 
-Refer to Calculating Error.png
+MSE = J(w,b) 
 
 ## Gradient Descent
 
@@ -33,6 +33,6 @@ The learning rate helps us get to the lowest Mean Square Error at an optimal amo
 ### Testing:
 Given a data point:
 <ul>
-    <li>Put in the values from the data point into the equation y =  1 / (1 + e^(-wx + b))</li>
-    <li>Choose the label based on the probability</li>
+    <li>Put in the values from the data point into the equation y = wx + b</li>
 </ul>
+
