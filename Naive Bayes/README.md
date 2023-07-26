@@ -2,13 +2,13 @@
 
 The Naive Bayes classifier is a "probabilistic classifier" based on applying Bayes' theorem with strong (naive) independence assumptions between the features.
 
-<img src="Naive Bayes/assets/Bayes'_Theorem.png" width ="500" height="500"> 
+<img src="/assets/Bayes'_Theorem.png" width ="500" height="500"> 
 
-<img src="Naive Bayes/assets/Independent.png" width ="500" height="500"> 
+<img src="/assets/Independent.png" width ="500" height="500"> 
 
-<img src="Naive Bayes/assets/Posterior_Probability.png" width ="500" height="500"> 
+<img src="/assets/Posterior_Probability.png" width ="500" height="500"> 
 
-<img src="Naive Bayes/assets/Conditional.png" width ="500" height="500"> 
+<img src="/assets/Conditional.png" width ="500" height="500"> 
 
 ## Steps
 
